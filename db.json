@@ -1,25 +1,104 @@
-{ "posts": [
-  {
-    "id": 1,
-    "title": "The Godfather",
-    "category": "Crime",
-    "image": "https://picsum.photos/id/1/200/300",
-    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
-  },
-  {
-    "id": 2,
-    "title": "The Shawshank Redemption",
-    "category": "Drama",
-    "image": "https://picsum.photos/id/2/200/300",
-    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
-  },
-  {
-    "id": 3,
-    "title": "The Dark Knight",
-    "category": "Action",
-    "image": "https://picsum.photos/id/3/200/300",
-    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
-  }
-]
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "category": "Drama"
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "category": "Crime"
+    },
+    {
+      "id": 3,
+      "title": "The Dark Knight",
+      "category": "Action"
+    },
+    {
+      "id": 4,
+      "title": "Schindler's List",
+      "category": "Biography"
+    },
+    {
+      "id": 5,
+      "title": "The Lord of the Rings: The Return of the King",
+      "category": "Action"
+    },
+    {
+      "id": 6,
+      "title": "Pulp Fiction",
+      "category": "Crime"
+    },
+    {
+      "id": 7,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "category": "Action"
+    },
+    {
+      "id": 8,
+      "title": "Forrest Gump",
+      "category": "Comedy"
+    },
+    {
+      "id": 9,
+      "title": "Inception",
+      "category": "Action"
+    },
+    {
+      "id": 10,
+      "title": "The Lord of the Rings: The Two Towers",
+      "category": "Action"
+    },
+    {
+      "id": 11,
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "category": "Action"
+    },
+    {
+      "id": 12,
+      "title": "The Matrix",
+      "category": "Action"
+    },
+    {
+      "id": 13,
+      "title": "Goodfellas",
+      "category": "Crime"
+    },
+    {
+      "id": 14,
+      "title": "One Flew Over the Cuckoo's Nest",
+      "category": "Drama"
+    },
+    {
+      "id": 15,
+      "title": "Seven",
+      "category": "Crime"
+    },
+    {
+      "id": 16,
+      "title": "City of God",
+      "category": "Crime"
+    },
+    {
+      "id": 17,
+      "title": "The Silence of the Lambs",
+      "category": "Crime"
+    },
+    {
+      "id": 18,
+      "title": "Saving Private Ryan",
+      "category": "War"
+    },
+    {
+      "id": 19,
+      "title": "The Green Mile",
+      "category": "Drama"
+    },
+    {
+      "id": 20,
+      "title": "The Departed",
+      "category": "Crime"
+    }
+  ]
 }
-
