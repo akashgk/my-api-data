@@ -3,102 +3,62 @@
     {
       "id": 1,
       "title": "The Shawshank Redemption",
-      "category": "Drama"
+      "category": "Drama",
+      "imageurl": "https://www.example.com/images/shawshank_redemption.jpg"
     },
     {
       "id": 2,
       "title": "The Godfather",
-      "category": "Crime"
+      "category": "Crime",
+      "imageurl": "https://www.example.com/images/the_godfather.jpg"
     },
     {
       "id": 3,
       "title": "The Dark Knight",
-      "category": "Action"
+      "category": "Action",
+      "imageurl": "https://www.example.com/images/the_dark_knight.jpg"
     },
     {
       "id": 4,
-      "title": "Schindler's List",
-      "category": "Biography"
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "category": "Fantasy",
+      "imageurl": "https://www.example.com/images/lotr_fellowship.jpg"
     },
     {
       "id": 5,
-      "title": "The Lord of the Rings: The Return of the King",
-      "category": "Action"
+      "title": "Forrest Gump",
+      "category": "Drama",
+      "imageurl": "https://www.example.com/images/forrest_gump.jpg"
     },
     {
       "id": 6,
-      "title": "Pulp Fiction",
-      "category": "Crime"
+      "title": "Star Wars: Episode IV - A New Hope",
+      "category": "Sci-Fi",
+      "imageurl": "https://www.example.com/images/star_wars_anh.jpg"
     },
     {
       "id": 7,
-      "title": "The Lord of the Rings: The Fellowship of the Ring",
-      "category": "Action"
+      "title": "The Matrix",
+      "category": "Sci-Fi",
+      "imageurl": "https://www.example.com/images/the_matrix.jpg"
     },
     {
       "id": 8,
-      "title": "Forrest Gump",
-      "category": "Comedy"
+      "title": "The Silence of the Lambs",
+      "category": "Thriller",
+      "imageurl": "https://www.example.com/images/silence_of_the_lambs.jpg"
     },
     {
       "id": 9,
-      "title": "Inception",
-      "category": "Action"
+      "title": "The Departed",
+      "category": "Crime",
+      "imageurl": "https://www.example.com/images/the_departed.jpg"
     },
     {
       "id": 10,
-      "title": "The Lord of the Rings: The Two Towers",
-      "category": "Action"
-    },
-    {
-      "id": 11,
-      "title": "Star Wars: Episode V - The Empire Strikes Back",
-      "category": "Action"
-    },
-    {
-      "id": 12,
-      "title": "The Matrix",
-      "category": "Action"
-    },
-    {
-      "id": 13,
-      "title": "Goodfellas",
-      "category": "Crime"
-    },
-    {
-      "id": 14,
-      "title": "One Flew Over the Cuckoo's Nest",
-      "category": "Drama"
-    },
-    {
-      "id": 15,
-      "title": "Seven",
-      "category": "Crime"
-    },
-    {
-      "id": 16,
-      "title": "City of God",
-      "category": "Crime"
-    },
-    {
-      "id": 17,
-      "title": "The Silence of the Lambs",
-      "category": "Crime"
-    },
-    {
-      "id": 18,
-      "title": "Saving Private Ryan",
-      "category": "War"
-    },
-    {
-      "id": 19,
-      "title": "The Green Mile",
-      "category": "Drama"
-    },
-    {
-      "id": 20,
-      "title": "The Departed",
-      "category": "Crime"
+      "title": "Inception",
+      "category": "Sci-Fi",
+      "imageurl": "https://www.example.com/images/inception.jpg"
     }
   ]
 }
